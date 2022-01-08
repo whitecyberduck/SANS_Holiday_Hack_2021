@@ -1,5 +1,7 @@
 # SANS_Holiday_Hack_2021
-SANS Holiday Hack CTF 2021 Writeups by White Cyberduck
+SANS Holiday Hack CTF 2021 writeups by White Cyberduck
+
+![image](https://user-images.githubusercontent.com/77878902/148632615-fa6b2ddd-c7c8-4903-941a-ab7d43386a9d.png)
 
 ## Objective Challenges
 
